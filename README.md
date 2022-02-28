@@ -8,7 +8,6 @@ We are seeking investor funding for our surf and ice cream shop in Oahu, Hawaii.
 
 Below are statistics from June and December calculated from the observation database.
 
-![June](/resources/june_stats.png)
+![June](resources/june_stats.PNG) ![December](resources/december_stats.PNG)
 
-![December](/resources/december_stats.png)
-
+When looking at the two months during summer and winter, you can 
