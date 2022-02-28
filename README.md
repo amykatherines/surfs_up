@@ -2,7 +2,7 @@
 
 ## Overview
 
-We are seeking investor funding for our surf and ice cream shop in Oahu, Hawaii.  Below we provide additional weather information from a weather observations database.  Our database includes temperatures from January 2010 through mid-August 2017.  For this analysis, we'll look at statistics for the months of June and December.
+We are seeking investor funding for our surf and ice cream shop in Oahu, Hawaii.  Below we provide weather information from a weather observations database to help our investors make a more informed decision.  Our database includes temperatures from January 2010 through mid-August 2017.  For this analysis, we'll look at statistics for the months of June and December.
 
 ## Analysis
 
